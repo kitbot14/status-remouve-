@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "status": {
+        "name": "Je suis un bot de démonstration",
+        "type": "STREAMING", //PLAYING STREAMING LISTENING WATCHING
+        "url": "https://twitch.tv/yourchannel"
+    }
+}
